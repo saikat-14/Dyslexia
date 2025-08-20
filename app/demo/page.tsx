@@ -74,7 +74,7 @@ They are also useful for practicing typing and improving reading skills.`)
               {convertedText}
             </div>
             <div className="mt-4 text-sm text-gray-500 text-center">
-              <p>OpenDyslexic font • Increased spacing • Optimized line height</p>
+              <p>Dyslexia-friendly font • Increased spacing • Optimized line height</p>
             </div>
           </div>
         </div>
@@ -91,7 +91,7 @@ They are also useful for practicing typing and improving reading skills.`)
               </div>
               <h3 className="text-lg font-semibold text-gray-900 mb-2">Font Change</h3>
               <p className="text-gray-600 text-sm">
-                Switched to OpenDyslexic font, designed specifically to reduce letter confusion
+                Switched to dyslexia-friendly font, designed specifically to reduce letter confusion
               </p>
             </div>
             
@@ -136,3 +136,4 @@ They are also useful for practicing typing and improving reading skills.`)
     </div>
   )
 }
+
