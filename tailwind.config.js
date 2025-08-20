@@ -106,7 +106,7 @@ module.exports = {
         }
       },
       fontFamily: {
-        'dyslexia': ['OpenDyslexic', 'Arial', 'sans-serif'],
+        'dyslexia': ['Comic Sans MS', 'Arial', 'sans-serif'],
         'sans': ['Inter', 'system-ui', 'sans-serif'],
       },
       fontSize: {
@@ -121,3 +121,4 @@ module.exports = {
   },
   plugins: [],
 }
+
