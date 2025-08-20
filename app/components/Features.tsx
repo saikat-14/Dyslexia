@@ -3,7 +3,7 @@ export default function Features() {
     {
       icon: "🔤",
       title: "Dyslexia-Friendly Fonts",
-      description: "Uses OpenDyslexic font and other accessible typography options designed specifically for readers with dyslexia."
+      description: "Uses dyslexia-friendly fonts and other accessible typography options designed specifically for readers with dyslexia."
     },
     {
       icon: "📏",
@@ -165,3 +165,4 @@ export default function Features() {
     </section>
   )
 }
+
