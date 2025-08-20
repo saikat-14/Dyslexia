@@ -13,7 +13,7 @@
 
 @layer components {
   .dyslexia-text {
-    font-family: 'OpenDyslexic', Arial, sans-serif;
+    font-family: 'Comic Sans MS', Arial, sans-serif;
     font-size: 1.25rem;
     line-height: 1.8;
     letter-spacing: 0.05em;
@@ -28,7 +28,7 @@
   .converted-text {
     background-color: #f2f1e8;
     color: #333333;
-    font-family: 'OpenDyslexic', 'Comic Sans MS', Arial, sans-serif;
+    font-family: 'Comic Sans MS', Arial, sans-serif;
     padding: 16px;
     border-radius: 8px;
   }
@@ -75,3 +75,4 @@
 ::-webkit-scrollbar-thumb:hover {
   background: #94a3b8;
 }
+
